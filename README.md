@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-**zeenathBegum15/zeenathBegum15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Zeenath 👋
 ### Bioinformatics & Data Science Student | Machine Learning for Biological Data
 
